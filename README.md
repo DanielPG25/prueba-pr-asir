@@ -25,4 +25,16 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [dmm](files/dmm.md)
 * [jrm](files/jrm.md)
 * [ajr](files/ajr.md)
+* [ale](files/ale.md)
+* [crm](files/crm.md)
+* [drg](files/drg.md)
+* [jvc](files/jvc.md)
+* [jcb](files/jcb.md)
+* [acd](files/acd.md)
+* [mca](files/mca.md)
+* [agv](files/agv.md)
+* [mjbp](files/mjbp.md)
 
+---
+
+FIN
